@@ -1,0 +1,87 @@
+img{
+  width:250px
+}
+.Priya{
+  font-size: 50px;
+  text-align: center;
+  color: rgba(132, 7, 234, 0.656);
+  border-radius: 1000px;
+  background-color: rgb(214, 181, 138);
+  font-family: serif;
+}
+.sir{
+  font-style: italic;
+  font-family:  'Arial Narrow';
+  font-size: 20px;
+}
+body{
+  background-color: rgb(230, 223, 213);
+
+}
+p{
+color: brown;
+background-color: aqua;
+font-size: 20px;
+}
+.B1{
+
+  color: rgb(232, 20, 20);
+  margin-bottom: 25px;
+  height: 60px;
+  width: 100px;
+  font-size: 20px;
+  border: none;
+  border-radius: 50px;
+  background-color: chartreuse;
+  cursor: pointer;
+  border-style: solid;
+  border-color: black;
+  box-shadow: 5px 2px 5px red;
+
+ }
+.B2{
+
+  color: rgb(232, 20, 20);
+  margin-bottom: 25px;
+  height: 60px;
+  width: 100px;
+  font-size: 20px;
+  border: none;
+  border-radius: 50px;
+  background-color: chartreuse;
+  cursor: pointer;
+}
+.B3{
+
+  color: rgb(232, 20, 20);
+  margin-bottom: 25px;
+  height: 60px;
+  width: 100px;
+  font-size: 20px;
+  border: none;
+  border-radius: 50px;
+  background-color: chartreuse;
+  cursor: pointer;
+  box-shadow: 5px 2px 5px rgb(36, 35, 35);
+}
+.headline{
+  text-align: center;
+  font-size: 55px;
+  background-color: blueviolet;
+  }
+  .B1:hover{
+    background-color: burlywood;
+    color: white;
+    text-decoration: underline;
+  }
+    .B1:active{
+      opacity: .5;
+    }
+  .B2:hover{
+    background-color: burlywood;
+    color: white;
+  }
+  .B3:hover{
+    background-color: burlywood;
+    color: white;
+  }
